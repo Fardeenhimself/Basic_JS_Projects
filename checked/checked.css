@@ -1,0 +1,45 @@
+* {
+  background-color: #222222;
+}
+
+#header {
+  display: block;
+  text-align: center;
+  font-size: 2em;
+  color: antiquewhite;
+}
+
+#aDiv {
+  font-size: 1.3em;
+  color: antiquewhite;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+#buttonDiv {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
+
+#button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: antiquewhite;
+  border-color: white;
+  border-radius: 25px;
+}
+
+#paraDiv {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
+
+.para {
+  color: antiquewhite;
+  font-size: 1.5em;
+}

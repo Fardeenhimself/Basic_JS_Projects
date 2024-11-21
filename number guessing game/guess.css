@@ -1,0 +1,40 @@
+* {
+  background-color: #222222;
+}
+
+#header {
+  display: block;
+  text-align: center;
+  font-size: 2em;
+  color: antiquewhite;
+}
+#paraDiv {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+  color: antiquewhite;
+}
+#button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: antiquewhite;
+  border-color: white;
+  border-radius: 25px;
+}
+#button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: antiquewhite;
+  border-color: white;
+  border-radius: 25px;
+  margin-top: 10px;
+}
+#userInput {
+  background-color: antiquewhite;
+  font-size: 1em;
+}
+.value {
+  color: antiquewhite;
+  font-size: 1.5em;
+}
