@@ -9,3 +9,5 @@
 #Random number generates random numbers.
 
 #The temparature folder is a simple application that converts temperature from one unit to another.
+
+#The Black Jack project is a javascript game of Black Jack. It uses most of javascript logics needed for a beginner.
